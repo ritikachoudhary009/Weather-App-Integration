@@ -32,13 +32,14 @@
 
 ---
 
-## 📷 Preview
+##  Preview
 
-*(Add a screenshot of your app here if possible)*
+Here's how the output will look like:
+
 <img width="1474" height="907" alt="Image" src="https://github.com/user-attachments/assets/261d8c8b-d081-430c-bf5c-7aa4bb4ccd83" />
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 - **HTML5**
 - **CSS3**
